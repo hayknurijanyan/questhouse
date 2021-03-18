@@ -307,7 +307,7 @@ footer a {
     overflow: hidden;
   }
   video {
-    height: 100vh;
+    height: 80vh;
     width: fit-content;
     object-fit: fill;
     margin-left: 50vw;
